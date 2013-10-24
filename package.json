@@ -1,0 +1,17 @@
+{
+  "name": "npm-bootstrap",
+  "version": "0.0.0",
+  "description": "bootstrap for my node/npm modules",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "make lint test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/netroy/npm-bootstrap.git"
+  },
+  "keywords": [
+  ],
+  "author": "NetRoY <aditya@netroy.in> (http://netroy.in/)",
+  "license": "MIT"
+}
